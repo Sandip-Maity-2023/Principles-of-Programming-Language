@@ -9,7 +9,7 @@ class Byte{
 private:
     float KB;
 public:
-    void getnum(){
+    void get(){
         cout<<"Enter the number of bytes in KB (kilo bytes):";
         cin>>KB;
     }
@@ -25,7 +25,7 @@ public:
 };
 int main(){
     Byte b;
-    b.getnum();
+    b.get();
     b.Mega();
     b.Giga();
     b.Tera();
