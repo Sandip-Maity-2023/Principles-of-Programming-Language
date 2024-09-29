@@ -18,11 +18,15 @@ public:
     float calculate(float l, float w, int isRectangle) {
         return l * w;
     }
+    float calculate(double m) {
+        return m * m;
+    }
 };
 
 int main() {
     Area x;
     float base, height, radius, length, width;
+    double m;
 
     cout << "Enter base and height of the triangle: "<<endl;
     cin >> base >> height;
@@ -35,6 +39,8 @@ int main() {
     cout << "Enter length and width of the rectangle: "<<endl;
     cin >> length >> width;
     cout << "Area of Rectangle: " << x.calculate(length, width, true) << endl;
-
+cout<<"Enter the length of square:\n";
+cin>>m;
+cout<<"Area of Square:\n"<<x.calculate(m)<<endl;
     return 0;
 }
