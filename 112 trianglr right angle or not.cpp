@@ -8,13 +8,11 @@ private:
     float a,b,c;
 public:
     void right(){
-        (b*b==c*c+a*a || c*c==a*a+b*b ||a*a==c*c+b*b)?cout<<"The triangle is Right angle."<<endl: cout<<"It's not."<<endl;
+        (b*b==c*c+a*a || c*c==a*a+b*b || a*a==c*c+b*b ) ? cout<<"The triangle is Right angle."<<endl : cout<<"It's not."<<endl;
 
         }
-
-
     void display(){
-        cout<<"Enter the value of 3 sides of triangle:"<<endl;
+        cout<<"Enter the value of 3 sides of triangle: "<<endl;
         cin>>b>>c>>a;
     }
 };

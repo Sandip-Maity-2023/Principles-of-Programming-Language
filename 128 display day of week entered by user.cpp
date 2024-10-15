@@ -9,23 +9,23 @@ private:
     int ch;
 public:
     void day(){
-        cout<<"Enter your choice: "<<endl;
+        cout<<"Enter your choice(Day no of the week) : "<<endl;
         cin>>ch;
         switch(ch){
             case 1:
-                cout<<"It is Monday.";
+                cout<<"It is Monday."<<endl;
                 break;
             case 2:
-                cout<<"It is Monday.";
+                cout<<"It is Tuesday."<<endl;
                 break;
             case 3:
-                cout<<"It is Monday.";
+                cout<<"It is Wednesday."<<endl;
                 break;
             case 4:
-                cout<<"It is Monday.";
+                cout<<"It is Thursday."<<endl;
                 break;
             case 5:
-                cout<<"It is Monday.";
+                cout<<"It is Friday."<<endl;
                 break;
             case 6:
                 cout<<"It's Saturday"<<endl;
@@ -33,7 +33,7 @@ public:
             case 7:
                 cout<<"It's a Sunday."<<endl;
             default:
-                cout<<"ERROR!"
+                cout<<"ERROR!"<<endl;
 
         }
     }
@@ -41,5 +41,4 @@ public:
 int main(){
     week x;
     x.day();
-    printf""
 }
