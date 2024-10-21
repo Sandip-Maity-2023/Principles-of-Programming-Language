@@ -10,6 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/A1 Checking Compiler Version.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2 square root.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A3 bool func.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,44 +69,44 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.002 Class implementation.cpp">
+  <component name="RunManager" selected="C/C++ File.A3 bool func.cpp">
     <configuration name="002 Class implementation.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="002 Class implementation.cpp" CONFIG_NAME="002 Class implementation.cpp">
       <option name="sourceFile" value="002 Class implementation.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="016 destructor.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="016 destructor.cpp" CONFIG_NAME="016 destructor.cpp">
-      <option name="sourceFile" value="016 destructor.cpp" />
+    <configuration name="A1 Checking Compiler Version.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="A1 Checking Compiler Version.cpp" CONFIG_NAME="A1 Checking Compiler Version.cpp">
+      <option name="sourceFile" value="A1 Checking Compiler Version.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="delete p.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="delete p.cpp" CONFIG_NAME="delete p.cpp">
-      <option name="sourceFile" value="delete p.cpp" />
+    <configuration name="A2 square root.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="A2 square root.cpp" CONFIG_NAME="A2 square root.cpp">
+      <option name="sourceFile" value="A2 square root.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="delete r.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="delete r.cpp" CONFIG_NAME="delete r.cpp">
-      <option name="sourceFile" value="delete r.cpp" />
+    <configuration name="A3 bool func.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="A3 bool func.cpp" CONFIG_NAME="A3 bool func.cpp">
+      <option name="sourceFile" value="A3 bool func.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="delete s.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="delete s.cpp" CONFIG_NAME="delete s.cpp">
-      <option name="sourceFile" value="delete s.cpp" />
+    <configuration name="A3 bool function.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="A3 bool function.cpp" CONFIG_NAME="A3 bool function.cpp">
+      <option name="sourceFile" value="A3 bool function.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.A3 bool func.cpp" />
+        <item itemvalue="C/C++ File.A3 bool function.cpp" />
+        <item itemvalue="C/C++ File.A2 square root.cpp" />
+        <item itemvalue="C/C++ File.A1 Checking Compiler Version.cpp" />
         <item itemvalue="C/C++ File.002 Class implementation.cpp" />
-        <item itemvalue="C/C++ File.016 destructor.cpp" />
-        <item itemvalue="C/C++ File.delete s.cpp" />
-        <item itemvalue="C/C++ File.delete r.cpp" />
-        <item itemvalue="C/C++ File.delete p.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +167,11 @@
       <workItem from="1728814386712" duration="895000" />
       <workItem from="1729095690458" duration="3433000" />
       <workItem from="1729131189772" duration="435000" />
-      <workItem from="1729154039958" duration="885000" />
+      <workItem from="1729154039958" duration="1466000" />
+      <workItem from="1729165778416" duration="623000" />
+      <workItem from="1729345995594" duration="6000" />
+      <workItem from="1729346855372" duration="2062000" />
+      <workItem from="1729436554567" duration="2684000" />
     </task>
     <servers />
   </component>
