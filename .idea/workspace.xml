@@ -9,12 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/A1 Checking Compiler Version.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A2 square root.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A3 bool func.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,6 +167,7 @@
       <workItem from="1729345995594" duration="6000" />
       <workItem from="1729346855372" duration="2062000" />
       <workItem from="1729436554567" duration="2684000" />
+      <workItem from="1729530295818" duration="29000" />
     </task>
     <servers />
   </component>
