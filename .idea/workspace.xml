@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="hi">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorial using recursion.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/130 checking prime or composite.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/130 checking prime or composite.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,6 +173,7 @@
       <workItem from="1729530295818" duration="29000" />
       <workItem from="1729622928733" duration="32000" />
       <workItem from="1729969864885" duration="2751000" />
+      <workItem from="1730056824080" duration="1241000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <option name="closed" value="true" />

@@ -23,5 +23,15 @@ int main(){
     cout<<"Enter the number: "<<endl;
     cin>>a;
     prime p;
-    p.
+    if(a<=1){
+cout<<a<<" It's NOT a prime number"<<endl;
+return 0;
+    }
+    if(func(a,a-1)){
+        cout<<a<<" is a prime number"<<endl;
+    }
+    else{
+        cout<<a<<" is NOT a prime number"<<endl;
+    }
+    return 0;
 }
