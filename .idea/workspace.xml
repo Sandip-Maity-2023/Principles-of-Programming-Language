@@ -11,9 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="hi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/018 implement multilevel inheritance with respect to the student registration system.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/019 implement hybrid inheritance with respect to university examination system.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +180,9 @@
       <workItem from="1731151937085" duration="179000" />
       <workItem from="1731152147391" duration="7438000" />
       <workItem from="1731246296595" duration="39000" />
-      <workItem from="1731248929669" duration="592000" />
+      <workItem from="1731248929669" duration="1039000" />
+      <workItem from="1731431686056" duration="94000" />
+      <workItem from="1731464425021" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <option name="closed" value="true" />
