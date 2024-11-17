@@ -7,7 +7,7 @@ class assessment{
 protected:
     int project;
 public:
-    void put(float b){
+    void         put(float b){
         project=b;
     }
     void forward(){

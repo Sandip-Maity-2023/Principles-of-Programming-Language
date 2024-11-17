@@ -10,7 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="hi">
+      <change afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/203-1 bisection method in numerical lab.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/203-7 simpson rule .c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/203-7 trapezoidal rule.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/203-8 euler theorem.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/203-9 Runga kutta method.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/019 implement hybrid inheritance with respect to university examination system.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/019 implement hybrid inheritance with respect to university examination system.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction-to-Programming/137 Bubble sort program to arrange number ascending order.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/137 Bubble sort program to arrange number ascending order.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction-to-Programming/203 bisection method in numerical lab.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction-to-Programming/203-2 regular falsi method .c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/203-2 regular falsi method .c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction-to-Programming/203-3 Newtop raphson method.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/203-3 Newtop raphson method.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction-to-Programming/203-5 gauss elimin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/203-5 gauss elimin.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction-to-Programming/203-5 gauss elimination.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/203-5 gauss elimination.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,44 +78,44 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.019 implement hybrid inheritance with respect to university examination system.cpp">
-    <configuration name="018 implement multilevel inheritance with respect to the student registration system.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="018 implement multilevel inheritance with respect to the student registration system.cpp" CONFIG_NAME="018 implement multilevel inheritance with respect to the student registration system.cpp">
-      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\018 implement multilevel inheritance with respect to the student registration system.cpp" />
+  <component name="RunManager" selected="C/C++ File.203-5 gauss elimin.c">
+    <configuration name="203 bisection method in numerical lab.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="203 bisection method in numerical lab.c" CONFIG_NAME="203 bisection method in numerical lab.c">
+      <option name="sourceFile" value="203 bisection method in numerical lab.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="019 implement hybrid inheritance with respect to university examination system.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="019 implement hybrid inheritance with respect to university examination system.cpp" CONFIG_NAME="019 implement hybrid inheritance with respect to university examination system.cpp">
-      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\019 implement hybrid inheritance with respect to university examination system.cpp" />
+    <configuration name="203-2 regular falsi method .c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="203-2 regular falsi method .c" CONFIG_NAME="203-2 regular falsi method .c">
+      <option name="sourceFile" value="203-2 regular falsi method .c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="130 checking prime or composite.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="130 checking prime or composite.cpp" CONFIG_NAME="130 checking prime or composite.cpp">
-      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\130 checking prime or composite.cpp" />
+    <configuration name="203-3 Newtop raphson method.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="203-3 Newtop raphson method.c" CONFIG_NAME="203-3 Newtop raphson method.c">
+      <option name="sourceFile" value="203-3 Newtop raphson method.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="131 factorial using recursion.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="131 factorial using recursion.cpp" CONFIG_NAME="131 factorial using recursion.cpp">
-      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\131 factorial using recursion.cpp" />
+    <configuration name="203-4 system of linear equations.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="203-4 system of linear equations.c" CONFIG_NAME="203-4 system of linear equations.c">
+      <option name="sourceFile" value="203-4 system of linear equations.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multiplication table.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="multiplication table.cpp" CONFIG_NAME="multiplication table.cpp">
-      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\multiplication table.cpp" />
+    <configuration name="203-5 gauss elimin.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="203-5 gauss elimin.c" CONFIG_NAME="203-5 gauss elimin.c">
+      <option name="sourceFile" value="203-5 gauss elimin.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.019 implement hybrid inheritance with respect to university examination system.cpp" />
-        <item itemvalue="C/C++ File.018 implement multilevel inheritance with respect to the student registration system.cpp" />
-        <item itemvalue="C/C++ File.multiplication table.cpp" />
-        <item itemvalue="C/C++ File.131 factorial using recursion.cpp" />
-        <item itemvalue="C/C++ File.130 checking prime or composite.cpp" />
+        <item itemvalue="C/C++ File.203-5 gauss elimin.c" />
+        <item itemvalue="C/C++ File.203-4 system of linear equations.c" />
+        <item itemvalue="C/C++ File.203-3 Newtop raphson method.c" />
+        <item itemvalue="C/C++ File.203-2 regular falsi method .c" />
+        <item itemvalue="C/C++ File.203 bisection method in numerical lab.c" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +195,12 @@
       <workItem from="1731248929669" duration="1039000" />
       <workItem from="1731431686056" duration="94000" />
       <workItem from="1731464425021" duration="30000" />
+      <workItem from="1731549532402" duration="3407000" />
+      <workItem from="1731569866855" duration="1148000" />
+      <workItem from="1731739124875" duration="4536000" />
+      <workItem from="1731764076966" duration="13000" />
+      <workItem from="1731818853449" duration="42000" />
+      <workItem from="1731818915728" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <option name="closed" value="true" />
