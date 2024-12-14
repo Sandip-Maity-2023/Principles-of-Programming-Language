@@ -10,7 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="hi">
+      <change afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/double linkedlist.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/203-8 euler theorem.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction-to-Programming/Project 07 Bank Management system.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/Project 07 Bank Management system.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction-to-Programming/new linked.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/new linked.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +25,7 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Introduction-to-Programming" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -193,6 +197,7 @@
       <workItem from="1731992101139" duration="232000" />
       <workItem from="1732032451217" duration="3016000" />
       <workItem from="1732112637582" duration="45000" />
+      <workItem from="1733674006991" duration="1699000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <option name="closed" value="true" />
