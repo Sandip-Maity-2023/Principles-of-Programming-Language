@@ -10,10 +10,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="hi">
+      <change afterPath="$PROJECT_DIR$/021 1class template.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022 2class template.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022 3class template.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/206 4Circular Doubly linked list.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/206 5store a polynomial using linked list and performing addition and subtraction on two polynomials.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project 00 Calculator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Project 00 Calculator.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project 00 Calculator.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction-to-Programming/206 2double linkedlist.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/206 2double linkedlist.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction-to-Programming/208 2insertion search.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/208 2insertion sort.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Introduction-to-Programming/209 7Radix sort.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/209 7Radix sort.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction-to-Programming/51 first upload.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction-to-Programming/52 WAP IN C TO MAKE THE FOLLOWING NUMBERS USING THESE DUGITS.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/52 make the following numbers using followng digits.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction-to-Programming/new linked.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction-to-Programming/206 0new linked.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,39 +59,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="C/C++ File.Project 00 Calculator.cpp">
-    <configuration name="010 simple interest dafault value.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="010 simple interest dafault value.cpp" CONFIG_NAME="010 simple interest dafault value.cpp">
-      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\010 simple interest dafault value.cpp" />
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.022 3class template.cpp">
+    <configuration name="021 1class template.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="021 1class template.cpp" CONFIG_NAME="021 1class template.cpp">
+      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\021 1class template.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="203-1 bisection method in numerical lab.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="203-1 bisection method in numerical lab.c" CONFIG_NAME="203-1 bisection method in numerical lab.c">
-      <option name="sourceFile" value="203-1 bisection method in numerical lab.c" />
+    <configuration name="022 2class template.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="022 2class template.cpp" CONFIG_NAME="022 2class template.cpp">
+      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\022 2class template.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="203-5 gauss elimin.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="203-5 gauss elimin.c" CONFIG_NAME="203-5 gauss elimin.c">
-      <option name="sourceFile" value="203-5 gauss elimin.c" />
+    <configuration name="022 3class template.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="022 3class template.cpp" CONFIG_NAME="022 3class template.cpp">
+      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\022 3class template.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -102,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.022 3class template.cpp" />
+        <item itemvalue="C/C++ File.022 2class template.cpp" />
+        <item itemvalue="C/C++ File.021 1class template.cpp" />
         <item itemvalue="C/C++ File.Project 00 Calculator.cpp" />
         <item itemvalue="C/C++ File.203-8 euler theorem.c" />
-        <item itemvalue="C/C++ File.203-1 bisection method in numerical lab.c" />
-        <item itemvalue="C/C++ File.010 simple interest dafault value.cpp" />
-        <item itemvalue="C/C++ File.203-5 gauss elimin.c" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +210,7 @@
       <workItem from="1734850276815" duration="1590000" />
       <workItem from="1734880136784" duration="5068000" />
       <workItem from="1734926032085" duration="44000" />
+      <workItem from="1735869755514" duration="2149000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <option name="closed" value="true" />
