@@ -41,7 +41,7 @@ int main(){
         cout << "4. Division(/)" << endl;
         cout << "5. Modulus(%)" << endl;
         cout << "6. Factorial(!)" << endl;
-        cout<<  "7. Applying Brackets[{()}]`"<<endl;
+        cout<<  "7. Applying Brackets[{(`)}]"<<endl;
         cout << "8. Exit "<<endl;
         cin>>a;
         switch(a){
