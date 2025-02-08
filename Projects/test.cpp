@@ -1,6 +1,6 @@
 #include<iostream>
 //#include<mysql.h>
-#include<string>
+//#include<string>
 //#include<mysql_error.h>
 //#include<windows.h>
 //#include<sstream>
