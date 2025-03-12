@@ -9,7 +9,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="hi" />
+    <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="hi">
+      <change afterPath="$PROJECT_DIR$/CP/comparing pairs which is divisible by 2 .cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP/without multi and divide factorial.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +76,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.022 3vector.cpp">
+  <component name="RunManager" selected="C/C++ File.without multi and divide factorial.cpp">
     <configuration name="021 1class template.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="021 1class template.cpp" CONFIG_NAME="021 1class template.cpp">
       <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\021 1class template.cpp" />
       <method v="2">
@@ -95,19 +101,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Project 00 Calculator.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="Project 00 Calculator.cpp" CONFIG_NAME="Project 00 Calculator.cpp">
-      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\Project 00 Calculator.cpp" />
+    <configuration name="without multi and divide factorial.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="without multi and divide factorial.cpp" CONFIG_NAME="without multi and divide factorial.cpp">
+      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\CP\without multi and divide factorial.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.without multi and divide factorial.cpp" />
         <item itemvalue="C/C++ File.022 3vector.cpp" />
         <item itemvalue="C/C++ File.022 3class template.cpp" />
         <item itemvalue="C/C++ File.022 2class template.cpp" />
         <item itemvalue="C/C++ File.021 1class template.cpp" />
-        <item itemvalue="C/C++ File.Project 00 Calculator.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +216,7 @@
       <workItem from="1736342189566" duration="15000" />
       <workItem from="1738768710987" duration="683000" />
       <workItem from="1741415142768" duration="31000" />
+      <workItem from="1741712346863" duration="1993000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <option name="closed" value="true" />
