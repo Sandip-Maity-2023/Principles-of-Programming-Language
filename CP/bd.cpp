@@ -20,7 +20,7 @@
 // or use #include<bits/stdc++.h> to include all the libraries at once.
 
 //111->3
-using namespace std;
+using namespace std;   //2559 last bd conversion
 int bd(int n){
 int ans=0;
 int x=1;
@@ -30,6 +30,7 @@ while(n>0){
     x*=2;
     n/=10;
 }
+return ans;
 }
 int main(){
     int n;
