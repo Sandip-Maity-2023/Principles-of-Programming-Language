@@ -9,15 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="hi">
-      <change afterPath="$PROJECT_DIR$/022 4vector.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CP/hd.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CP/od.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knapscack problem.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/022 3vector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/022 3vector.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP/bd.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CP/bd.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="hi" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,6 +217,7 @@
       <workItem from="1742067442099" duration="756000" />
       <workItem from="1742102201249" duration="850000" />
       <workItem from="1742103069469" duration="5489000" />
+      <workItem from="1743323522025" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <option name="closed" value="true" />
