@@ -1,0 +1,105 @@
+
+class Solution {
+public:
+    vector<vector<int>> parkCars(int floors, vector<vector<vector<int>>>& grid, vector<vector<int>>& cars) {
+        int rows = grid[0].size();
+        int cols = grid[0][0].size();
+        vector<vector<int>> result;
+        
+        // Create working copy of the parking grid
+        vector<vector<vector<int>>> parkingState = grid;
+        
+        // Generate positions sorted by distance from entrance (0,0)
+        vector<pair<int, int>> positions;
+        for (int r = 0; r < rows; r++) {
+            for (int c = 0; c < cols; c++) {
+                positions.push_back({r, c});
+            }
+        }
+        
+        // Sort by Manhattan distance from entrance
+        sort(positions.begin(), positions.end(), [](const pair<int,int>& a, const pair<int,int>& b) {
+            return (a.first + a.second) < (b.first + b.second);
+        });
+        
+        for (int carIdx = 0; carIdx < cars.size(); carIdx++) {
+            int width = cars[carIdx][0];
+            int height = cars[carIdx][1];
+            bool parked = false;
+            
+            // Try each floor from bottom to top
+            for (int floor = 0; floor < floors && !parked; floor++) {
+                // Try each position in distance order
+                for (auto& pos : positions) {
+                    int r = pos.first;
+                    int c = pos.second;
+                    
+                    if (canPark(parkingState, floor, r, c, width, height, rows, cols)) {
+                        parkCar(parkingState, floor, r, c, width, height);
+                        result.push_back({floor, r, c});
+                        parked = true;
+                        break;
+                    }
+                }
+            }
+            
+            // If car couldn't be parked anywhere
+            if (!parked) {
+                result.push_back({-1, -1, -1});
+            }
+        }
+        
+        return result;
+    }
+    
+private:
+    bool canPark(vector<vector<vector<int>>>& parkingState, int floor, int r, int c, 
+                 int width, int height, int rows, int cols) {
+        // Check if car fits within bounds
+        if (r + height > rows || c + width > cols) {
+            return false;
+        }
+        
+        // Check if all required spots are available (0)
+        for (int i = r; i < r + height; i++) {
+            for (int j = c; j < c + width; j++) {
+                if (parkingState[floor][i][j] != 0) {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+    
+    void parkCar(vector<vector<vector<int>>>& parkingState, int floor, int r, int c,
+                 int width, int height) {
+        
+        for (int i = r; i < r + height; i++) {
+            for (int j = c; j < c + width; j++) {
+                parkingState[floor][i][j] = 1;
+            }
+        }
+    }
+};
+
+
+int main() {
+    Solution sol;
+    
+    
+    vector<vector<vector<int>>> grid1 = {
+        {{0, 0, 1}, {0, 0, 0}, {2, 0, 0}},
+        {{0, 0, 0}, {0, 1, 0}, {0, 0, 0}}
+    };
+    vector<vector<int>> cars1 = {{1, 1}, {2, 1}, {1, 2}};
+    
+    auto result1 = sol.parkCars(2, grid1, cars1);
+    
+    cout << "Test Case 1 Results:" << endl;
+    for (int i = 0; i < result1.size(); i++) {
+        cout << "Car " << i << ": [" << result1[i][0] << ", " 
+             << result1[i][1] << ", " << result1[i][2] << "]" << endl;
+    }
+    
+    return 0;
+}
