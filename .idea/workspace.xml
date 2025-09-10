@@ -9,7 +9,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="hi" />
+    <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="hi">
+      <change afterPath="$PROJECT_DIR$/00 matrix.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP/lexicographical string.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CGPA_calculator.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banking_system.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login &amp; registration.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/without multi and divide factorial.exe" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,9 +78,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.knapscack problem.cpp">
-    <configuration name="022 3vector.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="022 3vector.cpp" CONFIG_NAME="022 3vector.cpp">
-      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\022 3vector.cpp" />
+  <component name="RunManager" selected="C/C++ File.tata.cpp">
+    <configuration name="00 matrix.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="00 matrix.cpp" CONFIG_NAME="00 matrix.cpp">
+      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\00 matrix.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -83,31 +91,31 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bd.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="bd.cpp" CONFIG_NAME="bd.cpp">
-      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\CP\bd.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hd.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="hd.cpp" CONFIG_NAME="hd.cpp">
-      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\CP\hd.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="knapscack problem.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="knapscack problem.cpp" CONFIG_NAME="knapscack problem.cpp">
       <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\knapscack problem.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lexicographical string.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="lexicographical string.cpp" CONFIG_NAME="lexicographical string.cpp">
+      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\CP\lexicographical string.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tata.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Principles-of-Programming-Language" TARGET_NAME="tata.cpp" CONFIG_NAME="tata.cpp">
+      <option name="sourceFile" value="C:\Users\12san\OneDrive\Documents\GitHub\Coding-Decoding\Principles-of-Programming-Language\CP\tata.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.tata.cpp" />
+        <item itemvalue="C/C++ File.lexicographical string.cpp" />
+        <item itemvalue="C/C++ File.00 matrix.cpp" />
         <item itemvalue="C/C++ File.knapscack problem.cpp" />
         <item itemvalue="C/C++ File.022 4vector.cpp" />
-        <item itemvalue="C/C++ File.bd.cpp" />
-        <item itemvalue="C/C++ File.022 3vector.cpp" />
-        <item itemvalue="C/C++ File.hd.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -218,6 +226,8 @@
       <workItem from="1742102201249" duration="850000" />
       <workItem from="1742103069469" duration="5489000" />
       <workItem from="1743323522025" duration="20000" />
+      <workItem from="1753368310573" duration="2507000" />
+      <workItem from="1755342475770" duration="1969000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <option name="closed" value="true" />
