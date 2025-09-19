@@ -10,13 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c234bd17-b559-41d0-8d47-67b0c49c1cb8" name="Changes" comment="hi">
-      <change afterPath="$PROJECT_DIR$/00 matrix.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CP/lexicographical string.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CGPA_calculator.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banking_system.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login &amp; registration.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/without multi and divide factorial.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +21,7 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Introduction-to-Programming" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -228,6 +222,7 @@
       <workItem from="1743323522025" duration="20000" />
       <workItem from="1753368310573" duration="2507000" />
       <workItem from="1755342475770" duration="1969000" />
+      <workItem from="1758204610717" duration="679000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <option name="closed" value="true" />
